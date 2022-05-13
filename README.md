@@ -30,11 +30,11 @@ Mara [@mara85kh] (https://github.com/mara85kh)
 
 # Graphic Guideline #
 
-![Graphic Guideline](https://cdn.discordapp.com/attachments/974208351833554964/974655292509941780/Capture_decran_2022-05-13_a_14.50.49.png) (https://cdn.discordapp.com/attachments/974208351833554964/974655292803514448/Capture_decran_2022-05-13_a_14.51.16.png)
+![Graphic Guideline](https://cdn.discordapp.com/attachments/974208351833554964/974655292509941780/Capture_decran_2022-05-13_a_14.50.49.png)
 
 # Project Management #
 
-![Project management used with Trello](https://cdn.discordapp.com/attachments/974208351833554964/974655678419439638/Capture_decran_2022-05-13_a_14.53.22.png)
+![Project management used with Trello] (https://cdn.discordapp.com/attachments/974208351833554964/974655292509941780/Capture_decran_2022-05-13_a_14.50.49.png)
 
 # URL #
 
